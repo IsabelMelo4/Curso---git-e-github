@@ -1,0 +1,12 @@
+
+
+                                      #CRIAR UM REPOSITORIO
+
+git init - você transforma sua pasta em um repositório
+
+
+
+COMMIT - salva as alterações que você fez no GIT
+PUSH - coloca as alterações feitas no git para o gitHub
+PULL - pega as alterações feita APENAS no gitHub e não está na minha maquina ainda
+
