@@ -26,5 +26,6 @@ Primeira vez fazendo um push para o GITHUB segue esses comandos
    // git remote add origin + link do repositório
    // git push origin master 
 
-nas demais vezes você pode colocar só o comando 
-   // git push 
+se você estiver fazendo alterações em alguma branch você deve espicificar a branch 
+
+   // git push isabel branch
