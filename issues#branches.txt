@@ -1,6 +1,9 @@
-                                    #O QUE ISSUES?
+                                    #O QUE É ISSUES?
 
     issues são problemas que foram identificados mas ainda não foram resolvidos e você
     discute o erro com outras pessoas, como um fórum
 
     
+                                    # O QUE É BRANCHES 
+   
+   
