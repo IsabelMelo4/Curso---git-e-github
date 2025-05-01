@@ -21,5 +21,10 @@ COMMIT salva as alterações feitas no GIT
 PUSH - coloca as alterações feitas no git para o gitHub
 PULL - pega as alterações feita APENAS no gitHub e não está na minha maquina ainda
 
-   // git push 
+Primeira vez fazendo um push para o GITHUB segue esses comandos 
 
+   // git remote add origin + link do repositório
+   // git push origin master 
+
+nas demais vezes você pode colocar só o comando 
+   // git push 
