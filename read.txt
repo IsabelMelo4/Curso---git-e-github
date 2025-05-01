@@ -1,0 +1,25 @@
+
+
+                                      #CRIAR UM REPOSITORIO
+
+git init - você transforma sua pasta em um repositório
+
+git add . ou git add e nome do arquivo - todas as alterações que eu tenha feito sejam rastreadas
+(posso fazer isso dentro do terminal)
+
+git status - eu posso ver como esta meu projeto 
+
+
+                                        #FAZER UM COMMIT 
+
+COMMIT salva as alterações feitas no GIT    
+   // git commit -m "sua mensagem"                               
+
+                                        #FAZER UM PUSH 
+
+
+PUSH - coloca as alterações feitas no git para o gitHub
+PULL - pega as alterações feita APENAS no gitHub e não está na minha maquina ainda
+
+   // git push 
+
