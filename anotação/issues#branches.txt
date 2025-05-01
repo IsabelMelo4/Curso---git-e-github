@@ -6,4 +6,5 @@
     
                                     # O QUE É BRANCHES 
    
+   branches são ramificações do código. A branch principal é a MASTER 
    
